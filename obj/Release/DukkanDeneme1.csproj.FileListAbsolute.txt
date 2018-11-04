@@ -1,0 +1,76 @@
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\bin\Release\DukkanDeneme1.exe.config
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\bin\Release\Dukkan1.mdb
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\bin\Release\DukkanDeneme1.exe
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\bin\Release\DukkanDeneme1.pdb
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.csprojResolveAssemblyReference.cache
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form1.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form2.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form3.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form4.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form5.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Properties.Resources.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.csproj.GenerateResource.Cache
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.exe
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.pdb
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form6.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form7.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form8.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form9.resources
+C:\Users\Kara Murat\documents\visual studio 2013\Projects\DukkanDeneme1\DukkanDeneme1\obj\Release\DukkanDeneme1.Form10.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.exe.config
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.exe
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.pdb
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\Dukkan1.mdb
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.exe
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.pdb
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.csprojResolveAssemblyReference.cache
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form1.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form10.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form2.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form3.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form4.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form5.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form6.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form7.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form8.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form9.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Properties.Resources.resources
+C:\Users\Kara Murat\Documents\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.csproj.GenerateResource.Cache
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.exe.config
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.exe
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.pdb
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\bin\Release\Dukkan1.mdb
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.exe
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.pdb
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.csprojResolveAssemblyReference.cache
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form1.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form10.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form2.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form3.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form4.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form5.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form6.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form7.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form8.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form9.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Properties.Resources.resources
+D:\GAMES' SAVE\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.csproj.GenerateResource.Cache
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.exe.config
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.exe
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.pdb
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\Dukkan1.mdb
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.exe
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\bin\Release\DukkanDeneme1.pdb
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.csprojResolveAssemblyReference.cache
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form1.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form10.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form2.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form3.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form4.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form5.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form6.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form7.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form8.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Form9.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.Properties.Resources.resources
+D:\GAMES' SAVE\Visual Studio 2013\Projects\DukkanDeneme2\DukkanDeneme1\obj\Release\DukkanDeneme1.csproj.GenerateResource.Cache
